@@ -1,0 +1,1 @@
+web: gunicorn item_tracker_api.wsgi
